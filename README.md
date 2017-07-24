@@ -7,12 +7,11 @@ management system provided by GitHub.
 ## Project Name and Project Board.
 A project board is created with the following columns:
 * **Backlog** - Issues that have not been started.
-  that have not been started.
 * **In Progress** - Issues that are being worked on. 
 * **In Review** - Issues that have are part of a pull request or manual review
   process.
 * **Done** - Issues that are done.
-* **Pull Resuest** - Issues that are tagged as a pull request.
+* **Pull Request** - Issues that are tagged as a pull request.
 
 ## What does Done mean?
 lpm uses different done classifications as follows:
@@ -34,7 +33,7 @@ As an example, three consecutive Sprints are declared as follows:
 * **Sprint v1.0.2** - Started 2017.03.06 and ended 2017.03.10.
 
 ## Labels
-lpm  uses labels as follows:
+lpm uses labels as follows:
 * **bug** - is an Issues that did not meet the intent of the Story.
 * **duplicate** - is an Issues that duplicates another issue regardless of the
   Issues label.  A rationale is given for duplicate Issues.
@@ -53,7 +52,7 @@ lpm  uses labels as follows:
   that are not fixed.
 
 ## Releases
-lpm  consist of one or more milestones.  Release names use the following naming
+lpm consist of one or more milestones.  Release names use the following naming
 convention: vM.N.P name, where
 * **M** - the major Release number starting with 1.
 * **N** - the minor Release number starting with 0.
